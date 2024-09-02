@@ -1,0 +1,18 @@
+div {
+    p {
+        background-color: yellow;
+        color: red;
+        text-align: center;  
+        font-size: 20px;
+    }
+}
+
+p {
+    background-color: bisque;
+}
+
+.container {
+    border-style: dotted;
+    border-color: blueviolet;
+    background-color: black;
+}
